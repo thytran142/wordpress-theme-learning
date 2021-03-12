@@ -12,3 +12,9 @@ docker-compose up -d
 It downloads WordPress basic project. Navigate the browser with the following: http://localhost:9210
 
 After that, git pull the repository to your project.
+
+Run
+```
+// Navigate to wprig
+npm run rig-init
+```
